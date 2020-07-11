@@ -7,7 +7,7 @@ You can find an in depth walkthrough for training a TensorFlow.js model [here](h
 `git clone` the repo and `cd` into it by running the following command:
 
 ```bash
-git clone https://github.com/cloud-annotations/object-detection-node.git
+git clone https://github.com/cloud-annotations/Node-ObjectDetection.git
 cd object-detection-node
 ```
 
