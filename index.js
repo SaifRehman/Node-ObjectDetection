@@ -29,7 +29,7 @@ async function load() {
                 frame = vCap.read();
             }
             cv.waitKey(delay);
-            // cv.imshow("frame", frame)
+            cv.imshow("frame", frame)
         }
 
     } catch(err) {
